@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: black;
+  color: white;
+  margin: 20px 160px;
+  padding: 20px;
+}
+.postinfo {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+.loadmore {
+  margin: 20px;
+  height: 40px;
+  width: 140px;
+  border-radius: 30px;
+  cursor: pointer;
+}

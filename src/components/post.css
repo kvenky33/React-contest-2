@@ -1,0 +1,19 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid white;
+  margin: 10px;
+  height: 460px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.like-btn {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  border-radius: 30px;
+  margin: 5px 20px 5px 20px;
+  height: 30px;
+  cursor: pointer;
+}
